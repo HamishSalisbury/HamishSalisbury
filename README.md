@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Hamish Salisbury 👋
+
+3rd-year BE(Hons) student at Victoria University of Wellington, specialising in AI.
+
+## Currently
+- Building a RAG chatbot
+- Developing TechCompass, a business website
+- Studying machine learning and software engineering
